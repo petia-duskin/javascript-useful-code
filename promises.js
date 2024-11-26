@@ -89,5 +89,3 @@ const any = promises => {
         })
     })
 }
-
-
